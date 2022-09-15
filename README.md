@@ -1,6 +1,6 @@
 # graphql-task
 
-To run the project use command: yarn start
+To run the project use command: yarn install && yarn start
 
 
 What I would done if I had more time:
