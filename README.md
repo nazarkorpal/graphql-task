@@ -3,8 +3,8 @@
 To run the project use command: yarn install && yarn start
 
 
-What I would done if I had more time:
+What I would do if I had more time:
 
-1. Validation for requsts.
-2. Role based validation
-3. Project architecture. I would done layers architecture with services.  
+1. Validation for requests.
+2. Role-based validation
+3. Project architecture. I would do layers architecture with services.
